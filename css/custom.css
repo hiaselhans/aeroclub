@@ -1,0 +1,36 @@
+.yes, .no {
+  height: 2rem;
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-origin: padding-box;
+}
+
+.yes {
+  background-image: url("../img/yes.png");
+}
+
+.no {
+
+    background-image: url("../img/no.png");
+}
+
+.red {
+  color: red;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+
+.box {
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 5vw;
+  padding: 5vw;
+}
